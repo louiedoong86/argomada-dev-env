@@ -420,7 +420,7 @@ exit
 
 ```
 cd ~/Downloads
-wget https://raw.githubusercontent.com/janmaghuyop/dev-env/master/check.py
+wget https://raw.githubusercontent.com/argomada/argomada-dev-env/master/check.py
 python check.py
 ```
 
