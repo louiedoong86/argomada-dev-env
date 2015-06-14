@@ -2,7 +2,7 @@
 
 Instructions to follow to set your development environment.
 
-# Usage
+## Usage
 
 - Open a terminal.
 - Copy and paste the commands below line per line and press enter.
@@ -26,4 +26,4 @@ mkdocs serve
 ```
 
 - Open Firefox web browser.
-- Visit the URL `localhost:8000`
+- Visit the URL [localhost:8000](localhost:8000)
