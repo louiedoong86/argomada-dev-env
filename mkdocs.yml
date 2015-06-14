@@ -1,0 +1,8 @@
+site_name: dev-env
+pages:
+    - 'About': 'index.md'
+    - 'Operating System': 'ubuntu.md'
+    - 'Online Accounts': 'accounts.md'
+    - 'Programs': 'programs.md'
+theme: readthedocs
+
