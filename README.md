@@ -26,4 +26,4 @@ mkdocs serve
 ```
 
 - Open Firefox web browser.
-- Visit the URL [localhost:8000](localhost:8000)
+- Visit the URL [http://localhost:8000/](http://localhost:8000/)
