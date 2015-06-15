@@ -51,7 +51,7 @@ sudo apt-get install -y curl
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 sudo chsh -s `which zsh`
 sudo reboot
-atom ~/.zshrc
+subl ~/.zshrc
 exit
 ```
 
@@ -330,13 +330,10 @@ exit
 ```
 pip install django
 pip install Pillow
-pip install pep8
 pip install colorama
 pip install mkdocs
 exit
 ```
-
-- Append in atom config file, `pep8ExecutePath: /penv/path/`
 
 # Clam AV - Anti Virus
 - Open a terminal.
