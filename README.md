@@ -1,6 +1,7 @@
 # Development Environment Setup
 
 Instructions to follow to set your development environment.
+Read the docs webpage is [http://argomada-dev-env.readthedocs.org/en/latest/](http://argomada-dev-env.readthedocs.org/en/latest/)
 
 ## Usage
 
