@@ -351,7 +351,7 @@ exit
 
 # ergo - Task viewer
 - Follow instructions in the link below.
-- [https://github.com/argomada/ergo](https://github.com/argomada/ergo)
+- [https://github.com/argomada/argomada-ergo](https://github.com/argomada/argomada-ergo)
 
 # Docker - Linux containers
 - Open a terminal.
