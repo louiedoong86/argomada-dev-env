@@ -42,7 +42,7 @@ apps = [
     ['Python Virtual Environment', '/home/' + user + '/penv/bin/activate', ''],
     ['Python3', '/home/' + user + '/penv/bin/python', 'python -V'],
     ['Docker', '/usr/bin/docker', 'docker -v'],
-    ['ergo', '/home/' + user + '/ergo/ergo.sh', ''],
+    ['ergo', '/home/' + user + '/argomada-ergo/ergo.sh', ''],
     ['SQLite3', '/usr/bin/sqlite3', 'sqlite3 --version'],
     ['Dia', '/usr/bin/dia', 'dia --version'],
     ['MySQL Client', '/usr/bin/mysql', 'mysql --version'],
