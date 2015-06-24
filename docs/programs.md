@@ -411,6 +411,15 @@ sudo apt-get install -y synapse
 exit
 ```
 
+# Netwide Assembler
+- Open a terminal.
+- Copy and paste the commands below line per line and press enter.
+
+```
+sudo apt-get install -y nasm
+exit
+```
+
 # Validate installation
 - Open a terminal.
 - Copy and paste the commands below line per line and press enter.
