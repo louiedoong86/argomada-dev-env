@@ -47,7 +47,8 @@ apps = [
     ['Dia', '/usr/bin/dia', 'dia --version'],
     ['MySQL Client', '/usr/bin/mysql', 'mysql --version'],
     ['nmap', '/usr/bin/nmap', 'nmap --version'],
-    ['synapse', '/usr/bin/synapse', '']
+    ['synapse', '/usr/bin/synapse', ''],
+    ['nasm', '/usr/bin/nasm', 'nasm -v']
 ]
 
 passed = 0
